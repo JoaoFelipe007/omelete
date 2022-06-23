@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Omelette</string>
+    <string name="Galinheiro_msg">Clique para pegar um Ovo no galinheiro</string>
+    <string name="ovo_msg">Clique até o ovo quebrar</string>
+    <string name="frigideira_msg">Clique para tirar do fogo o sua omelete</string>
+    <string name="omllete_msg">Clique para comer !!</string>
+    <string name="prato_msg">Clique para fazer outra omellete</string>
+    <string name="squeeze_count">Você tentou quebrar o ovo: %1$d, continue tentando!</string>
+    <string name="text_action">Clique para começar</string>
+    <string name="imageView">Galinheiro</string>
+</resources>
